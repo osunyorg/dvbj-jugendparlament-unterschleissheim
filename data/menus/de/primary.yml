@@ -8,6 +8,13 @@ items:
   children: []
   path: "/persons"
   file: content/de/persons/_index.html
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/de/events/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -22,13 +29,6 @@ items:
   children: []
   path: "/organizations"
   file: content/de/organizations/_index.html
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/de/events/_index.html
 - title: Expositions
   target: "/expositions/"
   kind: page
