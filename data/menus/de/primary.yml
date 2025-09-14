@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/de/organizations/_index.html
 - title: Expositions
   target: "/expositions/"
   kind: page
@@ -29,6 +22,13 @@ items:
   children: []
   path: "/events"
   file: content/de/events/_index.html
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/de/organizations/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
