@@ -1,24 +1,15 @@
 ---
 title: Menu principal
 items:
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
+- title: Organisations
+  slug: organisations
+  target: "/organisations/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/exhibitions"
-  file: content/de/exhibitions/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/de/posts/_index.html
+  path: "/organizations"
+  file: content/de/organizations/_index.html
 - title: Équipe
   slug: equipe
   target: "/equipe/"
@@ -37,13 +28,22 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/de/events/_index.html
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
+- title: Expositions
+  slug: expositions
+  target: "/expositions/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/organizations"
-  file: content/de/organizations/_index.html
+  path: "/exhibitions"
+  file: content/de/exhibitions/_index.html
+- title: Actualités
+  slug: actualites
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/de/posts/_index.html
 
