@@ -1,6 +1,24 @@
 ---
 title: Menu principal
 items:
+- title: Expositions
+  slug: expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/exhibitions"
+  file: content/de/exhibitions/_index.html
+- title: Actualités
+  slug: actualites
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/de/posts/_index.html
 - title: Organisations
   slug: organisations
   target: "/organisations/"
@@ -28,22 +46,4 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/de/events/_index.html
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/de/exhibitions/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/de/posts/_index.html
 
