@@ -4,8 +4,8 @@ de:
   title: >-
     Jugendparlament Unterschleißheim
   contentDir: content/de
-  languageCode: de
-  languageName: Deutsch
+  locale: de
+  label: Deutsch
   buildFuture: true
   params:
     contact_details:
