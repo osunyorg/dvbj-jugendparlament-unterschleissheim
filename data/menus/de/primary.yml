@@ -19,15 +19,6 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/de/persons/_index.html
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/de/exhibitions/_index.html
 - title: Agenda
   slug: agenda
   target: "/agenda/"
@@ -37,6 +28,15 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/de/events/_index.html
+- title: Expositions
+  slug: expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/exhibitions"
+  file: content/de/exhibitions/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"
