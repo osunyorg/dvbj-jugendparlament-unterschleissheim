@@ -10,15 +10,6 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/de/organizations/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/de/events/_index.html
 - title: Équipe
   slug: equipe
   target: "/equipe/"
@@ -37,6 +28,15 @@ items:
   descendants_targets: []
   path: "/exhibitions"
   file: content/de/exhibitions/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/de/events/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"
